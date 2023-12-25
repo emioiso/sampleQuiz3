@@ -1,13 +1,13 @@
 //
-//  ViewController.swift
+//  SelectLevelViewController.swift
 //  sampleQuiz3
 //
-//  Created by emi oiso on 2023/12/14.
+//  Created by emi oiso on 2023/12/24.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class SelectLevelViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
